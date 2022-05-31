@@ -1,5 +1,11 @@
-! Name: distractionFreeNews
+
+[uBlock Origin 1.42.4]
+! Version: 
+! Title: distractionFreeNews
+! Last modified: 2022-05-31
 ! Expires: 15 days
+! Homepage: 
+! Name: distractionFreeNews
 
 ! 2022-05-31 https://www.loksatta.com
 www.loksatta.com##.home-banner
