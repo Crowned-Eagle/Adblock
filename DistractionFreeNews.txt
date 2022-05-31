@@ -1,3 +1,6 @@
+! Name: distractionFreeNews
+! Expires: 15 days
+
 ! 2022-05-31 https://www.loksatta.com
 www.loksatta.com##.home-banner
 www.loksatta.com##div.wp-block-template-part.m-alignfull-small.has-background
