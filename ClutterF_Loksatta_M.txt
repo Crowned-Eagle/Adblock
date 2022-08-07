@@ -1,5 +1,5 @@
 
-[uBlock Origin 1.42.4]
+[uBlock Origin 1.43.0]
 ! Version: 
 ! Title: ClutterF_Loksatta_M
 ! Last modified: 2022-08-07
