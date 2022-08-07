@@ -1,7 +1,7 @@
 
 [uBlock Origin 1.42.4]
 ! Version: 
-! Title: distractionFreeNews
+! Title: ClutterF_Loksatta
 ! Last modified: 2022-08-07
 ! Expires: 15 days
 ! Homepage: 
