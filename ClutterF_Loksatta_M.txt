@@ -54,3 +54,4 @@ www.loksatta.com##.has-text-color.has-gray-light-color.has-black-background-colo
 www.loksatta.com##.has-text-color.has-gray-light-color.has-black-background-color.has-link-color.alignfull.wp-block-group.wp-container-7
 www.loksatta.com##.has-text-color.has-gray-light-color.has-black-background-color.has-link-color.alignfull.wp-block-group.wp-container-8
 www.loksatta.com##.has-text-color.has-gray-light-color.has-black-background-color.has-link-color.alignfull.wp-block-group.wp-container-9
+www.loksatta.com##div.adcode300x250.loadmore-ad-container
