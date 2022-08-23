@@ -53,7 +53,7 @@ www.loksatta.com##.desk-ad-bg-container
 www.loksatta.com##.adcode728x90.alignnone.wp-block-newspack-blocks-wp-block-newspack-ads-blocks-ad-unit
 www.loksatta.com##.ie-network-post-meta-sharing
 
-! 2022-08-07 https://www.loksatta.com [Mobile]
+! 2022-08-23 https://www.loksatta.com [Mobile]
 www.loksatta.com##.text-right.columns
 www.loksatta.com##.alignfull.s-level-menu
 www.loksatta.com##.ad-bg-container
@@ -92,3 +92,16 @@ www.loksatta.com##.has-text-color.has-gray-light-color.has-black-background-colo
 www.loksatta.com##.photo-gallery-widget.js-photogallery.is-multimedia.wp-block-group
 www.loksatta.com##.parent_also_read
 www.loksatta.com##.show.ie-click-event.app-btn
+www.loksatta.com##.has-text-color.has-gray-light-color.has-black-background-color.has-link-color.alignfull.wp-block-group.wp-container-3
+www.loksatta.com##.has-text-color.has-gray-light-color.has-black-background-color.has-link-color.alignfull.wp-block-group.wp-container-4
+www.loksatta.com##.has-text-color.has-gray-light-color.has-black-background-color.has-link-color.alignfull.wp-block-group.wp-container-5
+www.loksatta.com##.has-text-color.has-gray-light-color.has-black-background-color.has-link-color.alignfull.wp-block-group.wp-container-6
+www.loksatta.com##.has-text-color.has-gray-light-color.has-black-background-color.has-link-color.alignfull.wp-block-group.wp-container-7
+www.loksatta.com##.has-text-color.has-gray-light-color.has-black-background-color.has-link-color.alignfull.wp-block-group.wp-container-8
+www.loksatta.com##.has-text-color.has-gray-light-color.has-black-background-color.has-link-color.alignfull.wp-block-group.wp-container-9
+www.loksatta.com##div.adcode300x250.loadmore-ad-container
+www.loksatta.com##.s-level-menu
+www.loksatta.com##.adcode728x90.alignnone.wp-block-newspack-blocks-wp-block-newspack-ads-blocks-ad-unit
+www.loksatta.com##.multi-ticker
+www.loksatta.com##.desk-ad-bg-container
+www.loksatta.com##.ie-network-post-meta-sharing
